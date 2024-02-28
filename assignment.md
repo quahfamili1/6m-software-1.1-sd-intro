@@ -26,7 +26,7 @@ div:nth-child(6)
 ```
       .child {
         border: mediumblue 8px solid;
-        width: 492px;
+        width: 484px;
         height: 100%;
         margin: 0;
       }
